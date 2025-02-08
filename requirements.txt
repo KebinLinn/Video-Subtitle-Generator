@@ -1,0 +1,5 @@
+Flask
+moviepy==1.0.3
+speechrecognition
+pydub
+pysrt
